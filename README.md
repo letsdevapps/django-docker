@@ -28,23 +28,23 @@
 
 ## Estrutura
 
-projeto-raiz/
-├── venv/
-├── manage.py
-├── meu_projeto/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── my_app/
-│   ├── migrations/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   └── views.py
-├── requirements.txt
+	projeto-raiz/
+	├── venv/
+	├── manage.py
+	├── meu_projeto/
+	│   ├── __init__.py
+	│   ├── settings.py
+	│   ├── urls.py
+	│   └── wsgi.py
+	├── my_app/
+	│   ├── migrations/
+	│   ├── __init__.py
+	│   ├── admin.py
+	│   ├── apps.py
+	│   ├── models.py
+	│   ├── tests.py
+	│   └── views.py
+	├── requirements.txt
 
 ## Dependencias
 
